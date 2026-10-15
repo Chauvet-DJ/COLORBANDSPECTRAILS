@@ -2,6 +2,12 @@
 
 ## Software Versions
 
+[V1.06 - COLORband Spectra ILS](https://github.com/Chauvet-DJ/COLORBANDSPECTRAILS/blob/d4254a66730b28b7e02ad4ce818b5c4f223d7c77/firmware/V1.06.zip)
+- Fixed display bug when power is applied
+
+[V1.05 - COLORband Spectra ILS](https://github.com/Chauvet-DJ/COLORBANDSPECTRAILS/blob/d4254a66730b28b7e02ad4ce818b5c4f223d7c77/firmware/V1.05.zip)
+- Fixed tilt issue when controlled by ILS Command
+
 [V1.04 - COLORband Spectra ILS](https://github.com/Chauvet-DJ/COLORBANDSPECTRAILS/blob/2bdd577c0a74a03b54cea28b6a1cabfc9fadeba3/firmware/V1.04.zip)
 - Fixed master dimmer with pixel effects on ILS Command
 
